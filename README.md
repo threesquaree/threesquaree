@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👀 About Me:
 👯 I’m looking to collaborate on JavaScript Projects<br>🌱 I’m currently learning web-dev
 
 
